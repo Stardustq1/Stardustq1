@@ -4,7 +4,7 @@ I`m EUGENE beginner web developer based in Russia!
 
 I design and built whatever pops into my head!
 
-My main tech is vue.js, typescript and tailwind.
+My main tech is ```Vue.js```, ```Typescript``` and ```Tailwind```.
 
 I don`t have so much projects right now but my favourite is [ShieldKnight](https://github.com/Stardustq1/shieldKnight) (its kinda ugly)
 
