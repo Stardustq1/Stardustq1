@@ -15,3 +15,4 @@ Fun Facts:
 
 Hobbies: anime, videogames, building things.
 
+![typing-anime](https://github.com/user-attachments/assets/78cf2bc0-ddec-4991-b403-9167f82f127d)
