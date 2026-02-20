@@ -13,5 +13,5 @@ Fun Facts:
 2. I don`t like coffee or tea
 3. Jujutsu Kaisen is my favourite anime
 
-Hobbies: anime,videogames,building things.
+Hobbies: anime, videogames, building things.
 
