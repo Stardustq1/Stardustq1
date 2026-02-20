@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Stardustq1/Stardustq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m EUGENE beginner web developer based in Russia!
 
-Here are some ideas to get you started:
+I design and built whatever pops into my head!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech is vue.js, typescript and tailwind.
+
+I don`t have so much projects right now but my favourite is [ShieldKnight](https://github.com/Stardustq1/shieldKnight) (its kinda ugly)
+
+Fun Facts:
+1)I have one dog
+2)I don`t like coffee or tea
+3)Jujutsu Kaisen is my favourite anime
+
+Hobbies: anime,videogames,building things.
