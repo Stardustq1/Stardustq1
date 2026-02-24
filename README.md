@@ -6,7 +6,7 @@ I design and built whatever pops into my head!
 
 My main tech is ```Vue.js```, ```Typescript```,```Three.js``` and ```Tailwind```.
 
-I don`t have so much projects right now but my favourite is [ShieldKnight](https://github.com/Stardustq1/shieldKnight) (its kinda ugly)
+I don`t have many projects right now but my favourite is [ShieldKnight](https://github.com/Stardustq1/shieldKnight) (its kinda ugly)
 
 Fun Facts:
 1. I have one dog
